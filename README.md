@@ -22,8 +22,9 @@ You can check the responsive behavior by resizing the browser window or using Ch
 
 ## Live Demo
 
-(Add live demo link here if available)
+https://rowenahassan.github.io/ux-review-blog/
 
 ## Author
 
 Built by Rowena Hasssan
+
